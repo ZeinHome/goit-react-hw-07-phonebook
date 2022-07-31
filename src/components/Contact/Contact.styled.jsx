@@ -1,5 +1,10 @@
 import styled from 'styled-components';
 
+export const WatchWrapper = styled.div`
+  display: flex;
+  justify-content: center;
+`;
+
 export const ContactList = styled.ul`
   padding: 0;
   margin: 0;
